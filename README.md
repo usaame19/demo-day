@@ -1,3 +1,6 @@
+# Students Result Management Platform
+
+
 ## Introduction to my self:
 - **Name**: USAMA SAID MOHAMED 
 - **University**: UMMA UNIVERSITY
@@ -11,6 +14,12 @@
 - **LinkedIn**: [usamasaid19](https://www.linkedin.com/in/usamasaid19)
 - **Gmail**: [usaama.info@gmail.com](mailto:usaama.info@gmail.com)
 - **WhatsApp**: [0799982410](https://wa.me/0799982410)
+
+
+## Project Overview
+The "Students Result Management Platform" is designed to streamline the process of managing and accessing student grades and academic performance. This platform provides an efficient, user-friendly interface for educators and students alike.
+
+
 
 ## Tools and Technologies:
 - **Next.js 14**
